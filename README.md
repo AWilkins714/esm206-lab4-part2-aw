@@ -1,1 +1,8 @@
-# esm206-lab4-part2-aw
+# Alexandria's First Read Me
+
+- Some
+- Bullet
+- Points
+
+
+And other useful information!
